@@ -5,9 +5,6 @@ Version:	0.1
 Release:	1
 License:	LGPL
 Group:		Applications/Graphics
-Group(de):	Applikationen/Grafik
-Group(pl):	Aplikacje/Grafika
-Group(pt):	Aplicações/Gráficos
 Source0:	http://prdownloads.sourceforge.net/openquicktime/%{name}-%{version}.tgz
 URL:		http://openquicktime.sourceforge.net/
 BuildRequires:	openquicktime-devel
