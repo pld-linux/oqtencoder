@@ -5,7 +5,7 @@ Version:	0.1
 Release:	1
 License:	LGPL
 Group:		Applications/Multimedia
-Source0:	http://prdownloads.sourceforge.net/openquicktime/%{name}-%{version}.tgz
+Source0:	http://dl.sourceforge.net/openquicktime/%{name}-%{version}.tgz
 URL:		http://openquicktime.sourceforge.net/
 BuildRequires:	openquicktime-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
