@@ -4,7 +4,7 @@ Name:		oqtencoder
 Version:	0.1
 Release:	1
 License:	LGPL
-Group:		Applications/Graphics
+Group:		Applications/Multimedia
 Source0:	http://prdownloads.sourceforge.net/openquicktime/%{name}-%{version}.tgz
 URL:		http://openquicktime.sourceforge.net/
 BuildRequires:	openquicktime-devel
