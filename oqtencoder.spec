@@ -29,12 +29,10 @@ install -d $RPM_BUILD_ROOT%{_bindir}
 
 install oqtencoder $RPM_BUILD_ROOT%{_bindir}
 
-gzip -9nf readme
-
 %clean
 rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc readme.gz
+%doc readme
 %attr(755,root,root) %{_bindir}/*
