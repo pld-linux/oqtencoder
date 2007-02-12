@@ -1,5 +1,5 @@
 Summary:	Simple encoder that uses OpenQuicktime library
-Summary(pl):	Prosty koder korzystaj±cy z biblioteki OpenQuicktime
+Summary(pl.UTF-8):   Prosty koder korzystajÄ…cy z biblioteki OpenQuicktime
 Name:		oqtencoder
 Version:	0.1
 Release:	1
@@ -14,8 +14,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 OQTEncoder is simple encoder that uses OpenQuicktime library.
 
-%description -l pl
-OQTEncoder jest prostym koderem korzystaj±cym z biblioteki
+%description -l pl.UTF-8
+OQTEncoder jest prostym koderem korzystajÄ…cym z biblioteki
 OpenQuicktime.
 
 %prep
